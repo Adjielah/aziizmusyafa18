@@ -43,5 +43,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aziizmusyafa18/aziizmusyafa18/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aziizmusyafa18/aziizmusyafa18/output/pacman-contribution-graph.svg">
 </picture>
-
+<picture>
 <img src="https://raw.githubusercontent.com/aziizmusyafa18/aziizmusyafa18/output/snake.svg" alt="Snake animation" />
+</picture>
