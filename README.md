@@ -1,6 +1,4 @@
-## Hi, I am Muhammad Luthfi 'Aziiz Musyafa' 👋
 
-![Luthfi Musyafa](img/github-header-banner.png)
 
 <!--
 **aziizmusyafa18/aziizmusyafa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +17,8 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-🔭 I’m currently working on web development<br>🌱 I’m currently learning Laravel<br>
+Selamat Pagi Dunia!!!, Saya Muhammad Luthfi 'Aziiz Musyafa'
+Saya Suka bermain Coding dan suka iseng mengerjakaan project yang ternyata Dibutuhkan 😁
 
 ## 🌐 Socials:
 
