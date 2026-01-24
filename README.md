@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 Selamat Pagi Dunia!!!, Saya Muhammad Luthfi 'Aziiz Musyafa'
-Saya Suka bermain Coding dan suka iseng mengerjakaan project yang ternyata Dibutuhkan 😁
+<br><br>Saya Suka bermain Coding dan suka iseng mengerjakaan project yang ternyata Dibutuhkan 😁
 
 ## 🌐 Socials:
 
