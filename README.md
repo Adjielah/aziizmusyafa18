@@ -22,11 +22,11 @@ Saya Suka bermain Coding dan suka iseng mengerjakaan project yang ternyata Dibut
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aziizzz18)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/aziizzz18)
 
 # 💻 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,tailwind,express,nodejs,mysql,laravel,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bootstrap,tailwind,express,nodejs,mysql,laravel,materialui,github,vercel,netlify)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
